@@ -1,0 +1,36 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "image": "https://www.mapro.com/cdn/shop/articles/mix_fruit_600x400-01.jpg",
+      "preparationTime": 5,
+      "date": "03 January 2024",
+      "title": "Mix Fruit Jam Recipes",
+      "text": "Classic toast: Spread Mapro Mix Fruit Jam on toast for a quick and easy breakfast or snack. You can use any type of bread you like, but sourdough or wheat bread pairs well with the jam's sweetness and tartness."
+    },
+    {
+      "id": 2,
+      "image": "https://www.mapro.com/cdn/shop/articles/Whole-Strawberry-Recipe-2.png",
+      "preparationTime": 5,
+      "date": "07 December 2023",
+      "title": "Whole Strawberry Crush Recipes",
+      "text": "Here's a glimpse of the potential benefits of enjoying whole strawberries:Rich in Nutrients:Vitamin C:&nbsp;A powerful antioxidant that supports the immune system and helps protect cells from damage.&nbsp;One cup of strawberries provides more than 100% of the daily recommended intake of vitamin C.Manganese:&nbsp;Important for bone health,&nbsp;blood sugar control,&nbsp;and enzyme function.&nbsp;Strawberries are an excellent source of manganese.Folate (Vitamin B9):&nbsp;Crucial for pregnant women and helps prevent birth defects.&nbsp;Strawberries are a good source of folate.Fiber:&nbsp;Promotes digestive health and helps regulate blood sugar levels.&nbsp;One cup of strawberries provides about 3 grams of fiber.Potassium:&nbsp;Important for maintaining healthy blood pressure and muscle function.&nbsp;Strawberries are a good source of potassium."
+    },
+    {
+      "id": 3,
+      "image": "https://www.mapro.com/cdn/shop/articles/Blueberry-Recipe-1.png",
+      "preparationTime": 5,
+      "date": "24 November 2023",
+      "title": "Blueberry Crush Recipes",
+      "text": ""
+    },
+    {
+      "id": 4,
+      "image": "https://www.mapro.com/cdn/shop/articles/2a3fea2b9d86b489367c86f856264b7a.jpg",
+      "preparationTime": 5,
+      "date": "16 October 2023",
+      "title": "How to make Kesar Sharbat at home in 5 minutes",
+      "text": "Classic toast: Spread Mapro Mix Fruit Jam on toast for a quick and easy breakfast or snack. You can use any type of bread you like, but sourdough or wheat bread pairs well with the jam's sweetness and tartness."
+    }
+  ]
+}
